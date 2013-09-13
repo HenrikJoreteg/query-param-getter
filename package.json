@@ -1,0 +1,17 @@
+{
+  "name": "query-param-getter",
+  "version": "0.0.1",
+  "description": "Client module for grabbing query parameters by name from the URL.",
+  "main": "query-param-getter.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/henrikjoreteg/query-param-getter.git"
+  },
+  "keywords": [
+    "querystring",
+    "browser",
+    "url"
+  ],
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT"
+}
